@@ -89,3 +89,41 @@ Connectors: custom data ingestors to acquire data from 3rd-party software (e.g. 
 Add-ons: client-specific features that are not included in the core product (e.g. custom solutions for specific domains, custom predictive monitoring dashboards to suit specific needs).
 
 Learn more [here](https://apromore.org/services/)
+
+# Customer use cases
+
+Apromore can be used to drive change and transformation along different performance dimensions, but first and foremost, Apromore gives you the keys to “open” your business operations – to gain that transparency that is key to any operational excellence or digital transformation initiative. Once you have a good grasp of your operations, you can start identifying opportunities for improving organizational performance along dimensions such as efficiency & productivity, quality & customer experience, governance, risk & compliance, and agility.
+
+1. Achieve Transparency
+
+2. Improve Efficiency & Productivity
+
+3. Enhance Quality & Customer Experience
+
+4. Monitor Risk & Compliance
+
+5. Facilitate Agility
+
+Find use cases [here](https://apromore.org/use-cases/)
+
+# Case studies 
+
+Apromore has been successfully used in both large multi-nationals and small & medium enterprises (SMEs), in the public and private sectors, and in different industry domains. A selection of applications is presented below.
+
+1. Banking [Learn more](https://apromore.org/case-studies/)
+
+2. Financial services [Learn more](https://apromore.org/case-studies/)
+
+3. Health care [Learn more](https://apromore.org/case-studies/)
+
+4. Insurance. [Learn more](https://apromore.org/case-studies/)
+
+5. IT service management [Learn more](https://apromore.org/case-studies/)
+
+6. Logistic [Learn more](https://apromore.org/case-studies/)
+
+7. Manufacturing [Learn more](https://apromore.org/case-studies/)
+
+8. Public Administration & Government [Learn more](https://apromore.org/case-studies/)
+
+9. Telecommunications [Learn more](https://apromore.org/case-studies/)
