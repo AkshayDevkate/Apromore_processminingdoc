@@ -127,3 +127,13 @@ Apromore has been successfully used in both large multi-nationals and small & me
 8. Public Administration & Government [Learn more](https://apromore.org/case-studies/)
 
 9. Telecommunications [Learn more](https://apromore.org/case-studies/)
+
+
+Link to tool [User manual](https://apromore.org/help/user-manual/)
+
+Link to [community forum](https://apromore.org/platform/forum/) 
+
+Link to [Academic allience](https://apromore.org/academic-alliance/)
+
+Link to [Tool research lab](https://apromore.org/platform/tools/)
+
