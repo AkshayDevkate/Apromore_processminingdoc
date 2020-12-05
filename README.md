@@ -64,3 +64,27 @@ The tool also offer a public training course on Process mining vin partnership w
  Link to [University of Melbourne](https://www.unimelb.edu.au/professional-development/courses/short-courses/business-process-mining) course website !
  
  Learn more -- >  [Course Flyer](https://apromore.org/wp-content/uploads/2020/09/Business-Process-Mining-flyer-2020.pdf) , [Course contents](https://eng.unimelb.edu.au/__data/assets/pdf_file/0005/2960762/Business-Process-Mining-Agenda-2020.pdf) , [Date and Registration](https://www.unimelb.edu.au/professional-development/courses/short-courses/business-process-mining)
+ 
+ 
+ # 3. Consulting 
+ 
+ We’ve applied process mining to nemerous industry verticals, from IT service management through to insurance & banking, healthcare, IP management, logistics, manufacturing and education.
+
+Over time, we have gained substantial experience in supporting our clients through their journey towards operational intelligence. We run short & sharp proof-of-value projects, aimed at raising internal awareness for process mining; in-depth projects, where we combine basic with advanced process analytics; and capability-enhancement projects through dedicated training, where we help your team internalize process mining capabilities, so you can “walk with their legs”.
+
+Proof-of-Value (PoV) project: to rapidly raise internal awareness and build a business case for process mining.
+In-depth project: multi-faceted process analysis to address follow-up questions from the PoV or to tackle a new process, with no limits in terms of scope and KPIs, using both basic and advanced analytics.
+Capability-enhancement project: aimed at internalizing process mining capabilities. Combined with product subscription & training, includes mentoring and guidance.
+
+Learn more [here](https://apromore.org/services/)
+
+# 4. Customization
+
+Tool can develop custom extensions to Apromore Enterprise Edition to suit your specific needs. These will be added in the form of plugins. And given Apromore’s LGPL 3.0 license, extensions don’t need to be released under an open-source license. In other words, you won’t lose any competitive advantage!
+
+# Tool offer two types of custom extensions:
+
+Connectors: custom data ingestors to acquire data from 3rd-party software (e.g. customized versions of SAP, Dynamics, Oracle, Salesforce) into Apromore; custom data exporters to automatically import the analytics produced by Apromore into 3rd-party business intelligence tools (e.g. Power BI, QlikSens, Tableau).
+Add-ons: client-specific features that are not included in the core product (e.g. custom solutions for specific domains, custom predictive monitoring dashboards to suit specific needs).
+
+Learn more [here](https://apromore.org/services/)
