@@ -85,6 +85,7 @@ Tool can develop custom extensions to Apromore Enterprise Edition to suit your s
 # Tool offer two types of custom extensions:
 
 Connectors: custom data ingestors to acquire data from 3rd-party software (e.g. customized versions of SAP, Dynamics, Oracle, Salesforce) into Apromore; custom data exporters to automatically import the analytics produced by Apromore into 3rd-party business intelligence tools (e.g. Power BI, QlikSens, Tableau).
+
 Add-ons: client-specific features that are not included in the core product (e.g. custom solutions for specific domains, custom predictive monitoring dashboards to suit specific needs).
 
 Learn more [here](https://apromore.org/services/)
