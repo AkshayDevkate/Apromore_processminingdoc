@@ -129,6 +129,8 @@ Apromore has been successfully used in both large multi-nationals and small & me
 9. Telecommunications [Learn more](https://apromore.org/case-studies/)
 
 
+# Useful links
+
 Link to tool [User manual](https://apromore.org/help/user-manual/)
 
 Link to [community forum](https://apromore.org/platform/forum/) 
